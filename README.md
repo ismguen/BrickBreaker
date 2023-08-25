@@ -36,5 +36,10 @@ The Brick Breaker Game project is a Java application that implements a classic a
 4. Avoid letting the ball pass the paddle to prevent losing a life.
 5. Aim to break all the bricks and complete the game while maintaining lives.
 
+## Preview
+
+<img width="323" alt="image" src="https://github.com/ismguen/BrickBreaker/assets/130120780/a631d8a2-1f6a-4c0a-8256-73faee1a9fb4">
+
+
 
 
