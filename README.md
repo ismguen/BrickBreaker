@@ -36,6 +36,13 @@ The Brick Breaker Game project is a Java application that implements a classic a
 4. Avoid letting the ball pass the paddle to prevent losing a life.
 5. Aim to break all the bricks and complete the game while maintaining lives.
 
+## Installation
+
+1. Clone or download this repository to your local machine.
+2. Open a Java development environment (e.g., Eclipse, IntelliJ IDEA, or Visual Studio Code).
+3. Import the project into your chosen development environment.
+4. Compile and run the `Main` class to start the game.
+
 ## Preview
 
 <img width="323" alt="image" src="https://github.com/ismguen/BrickBreaker/assets/130120780/a631d8a2-1f6a-4c0a-8256-73faee1a9fb4">
